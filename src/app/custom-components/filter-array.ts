@@ -19,6 +19,7 @@ export class SimpleGreeting extends LitElement {
   }
   
   render() {
+    // call arrayManipulation for business logic
     this.arrayManipulation();
     return html`
         <h1>${this.title}</h1>
