@@ -1,3 +1,15 @@
+**Lit Element we use to create web-components. Lit element is purely javascript based class for creating fast, lightweight web components.
+
+**Why not Angular & React for web-components?
+
+--> We avoid angular & React to create web-component because of build size for such small component.
+
+In this project we will cover-
+  1. How to use lit element in Angular
+  2. How to pass data from Angular to lit-element
+
+
+
 # LitElementWithAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
